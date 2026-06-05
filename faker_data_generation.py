@@ -8,15 +8,15 @@ supplier_data=[]
 supplier_region=['NorthAmerica','Europe','Asia','MiddleEast','Africa']
 supplier_type=['suppliar','distributer','wholasaler']
 # supplier_data=[]
-for i in range(1,500):
+for i in range(1,501):
   supplier_data.append({
     "supplier_id":i,
     "supplier_name":fake.name(),
     "supplier_region":random.choice(supplier_region),
     "supplier_rating":round(random.uniform(1.0,5.0),2),
     "supplier_type":random.choice(supplier_type),
-    "contract_value":random.randint(1111111111,9999999999),
-    "contract_value":fake.date(),
+    "contract_value":round(random.uniform(10000.0,50000.0),2),
+    "contract_date":fake.date(),
     "contact_email":fake.email()
   })
 
@@ -43,7 +43,7 @@ df.to_csv('suppliers.csv',index=False)
 #     "shipment_date":shipment_date_fake_gen,
 #     "delivery_date":delivery_date_fake_gen,
 #     "quantity_shipped":random.randint(1,100),
-#     "transportation_cost":random.randint(100,10000),
+#     "transportation_cost":round(random.uniform(100.0,10000.0),2),
 #     "shipment_status":random.choice(shipment_status),
 #     "product_category":random.choice(product_category)
 #   })
