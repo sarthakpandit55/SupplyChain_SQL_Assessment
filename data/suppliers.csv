@@ -1,0 +1,501 @@
+supplier_id,supplier_name,supplier_region,supplier_rating,supplier_type,contract_value,onboarding_date,contact_email
+1,Jordan White,North America,2.09,Wholesaler,43966.52,1975-02-23,tammyyork@example.org
+2,Austin Romero,North America,2.29,Manufacturer,27696.28,2001-06-29,melissataylor@example.org
+3,Manuel Cole,Africa,3.51,Distributor,28949.1,2015-12-08,englishtimothy@example.net
+4,Tony Brown,Middle East,3.61,Manufacturer,45997.83,1999-04-26,sergiopadilla@example.org
+5,Angela Adams,Europe,2.42,Distributor,25333.89,1972-04-08,virginia87@example.com
+6,Rebecca Moore,Asia,2.74,Manufacturer,16447.51,2004-08-24,qmathews@example.org
+7,Mariah Maldonado,Asia,4.39,Manufacturer,28477.74,1971-12-27,christophercooper@example.net
+8,Jill Bowen,North America,4.62,Manufacturer,20749.28,2012-07-10,kevin81@example.org
+9,Elizabeth Ashley,North America,4.75,Manufacturer,44313.92,2005-01-06,samantha84@example.org
+10,Crystal Barrera,Middle East,3.52,Distributor,26166.6,2010-04-01,sheppardchristopher@example.net
+11,Joshua Hawkins,Europe,2.03,Supplier,38910.85,2009-08-24,jamestrevor@example.com
+12,Mark Hobbs,Europe,4.37,Supplier,41020.1,1996-08-16,smithjason@example.net
+13,Joseph Moore,Africa,2.14,Distributor,40398.13,2001-10-19,annadodson@example.com
+14,Rita David,Asia,4.91,Distributor,49220.9,1989-05-12,zpowers@example.com
+15,April Sims,Africa,3.6,Distributor,12724.76,1993-09-28,ginawilliams@example.com
+16,Richard Jones,Africa,1.01,Distributor,37582.77,1996-01-12,gregorydavis@example.net
+17,Frank Butler,Asia,4.07,Wholesaler,20316.57,1985-06-14,xross@example.net
+18,Kyle Hernandez,Middle East,2.57,Manufacturer,48423.77,2015-06-29,hudsonvincent@example.net
+19,Leslie Payne DDS,Africa,2.28,Manufacturer,46668.71,2009-12-28,juan51@example.org
+20,Jessica Smith,Middle East,3.4,Distributor,18587.42,1991-02-10,johnrussell@example.com
+21,Daniel Moran,Europe,2.7,Distributor,33246.02,2006-04-10,vford@example.org
+22,Laura Lester,Africa,2.22,Supplier,35521.59,1991-08-25,dvargas@example.com
+23,Christina Ramos,Asia,1.46,Wholesaler,10997.25,1980-10-01,barbarajones@example.com
+24,Joy Dominguez,North America,3.37,Wholesaler,48970.27,1970-11-07,cookerobert@example.com
+25,Gary Davis,Middle East,4.11,Distributor,35982.81,1990-07-09,sara20@example.com
+26,Chelsea Tucker,Asia,2.1,Manufacturer,22299.21,1992-01-18,ortizjohn@example.net
+27,Stacie Nichols,Asia,1.35,Wholesaler,13171.85,2013-05-19,pmathis@example.net
+28,Megan Stewart,North America,2.7,Supplier,49570.99,2016-08-15,swells@example.com
+29,Catherine Taylor,Europe,1.74,Supplier,23231.68,1990-02-02,sarah56@example.net
+30,Lee Key,Europe,4.97,Manufacturer,26209.41,1971-12-03,robertsmith@example.org
+31,David Deleon,Middle East,3.73,Wholesaler,21609.95,1971-12-13,bill05@example.org
+32,Jerry Moss,Africa,1.22,Manufacturer,13241.15,2005-09-30,wmiller@example.net
+33,Martha Chen,Europe,2.69,Wholesaler,43375.15,2019-08-21,ortegameghan@example.org
+34,Renee Chaney,Africa,1.16,Manufacturer,46548.76,2012-08-31,farleyjames@example.net
+35,Margaret Murphy,Middle East,3.03,Supplier,19221.29,1985-08-07,fuentesscott@example.net
+36,Robert Nichols,Asia,2.61,Supplier,40738.76,2014-10-26,gwendolyn91@example.org
+37,Madeline Wright,Asia,1.85,Supplier,46221.93,1987-10-18,josephorozco@example.com
+38,Alexander Jones,North America,1.13,Supplier,28575.12,2000-05-14,nicolehill@example.net
+39,Cody Collins,Asia,2.29,Distributor,44730.43,2005-02-26,douglas48@example.org
+40,Chris Perez,Africa,4.14,Distributor,39832.96,1991-04-23,ebruce@example.org
+41,Charles Adams,Asia,2.94,Distributor,26295.47,1999-12-04,jonesnathan@example.org
+42,James Sanchez,Asia,2.0,Distributor,12064.57,1972-11-26,zhayes@example.org
+43,James Taylor,North America,3.21,Distributor,44854.44,2021-10-31,zthomas@example.org
+44,James Simon,North America,3.84,Distributor,33537.63,1988-03-09,williamsrebekah@example.com
+45,David Miller,Africa,3.51,Supplier,27319.37,2022-07-29,jonathan10@example.net
+46,Debbie Smith,Middle East,3.18,Supplier,38342.2,1991-07-12,sloanrobert@example.com
+47,Darlene Small,Africa,1.22,Distributor,48721.19,1993-12-14,hardytina@example.com
+48,Carolyn Santana,Europe,4.06,Wholesaler,29960.94,1991-01-09,bautistaandrea@example.com
+49,Terri Bruce,North America,4.55,Distributor,13622.44,2005-06-03,john44@example.net
+50,Philip Williams,Middle East,3.72,Manufacturer,34742.95,1990-11-02,bpotter@example.net
+51,Jon Turner,Middle East,1.47,Manufacturer,14172.91,2016-01-25,tiffany75@example.net
+52,Molly Wilkinson,North America,1.64,Wholesaler,22854.41,1997-11-05,wattssandra@example.org
+53,David Juarez,North America,2.32,Distributor,33162.41,1976-09-16,brenda45@example.org
+54,Scott Byrd,Asia,2.91,Manufacturer,19400.24,1974-04-14,jacksonjoshua@example.net
+55,Kendra Graham,Africa,3.83,Distributor,11977.96,2000-07-13,estradaantonio@example.org
+56,Aaron Kirk,Europe,4.9,Supplier,13520.89,1988-05-30,marycantrell@example.com
+57,Kevin Hall,Middle East,1.86,Manufacturer,19735.34,2026-04-27,jmoore@example.net
+58,Patricia Vasquez,Middle East,1.39,Wholesaler,22310.64,1991-03-29,cristianthomas@example.org
+59,Kelsey Kaufman,Asia,2.53,Distributor,36212.55,2004-03-17,qknapp@example.com
+60,Robin Hull,Africa,3.76,Supplier,26330.12,1982-11-06,rodriguezlaura@example.net
+61,Jerry Turner,Middle East,4.99,Manufacturer,28586.07,2003-06-27,pamelagomez@example.net
+62,Linda Davis,Asia,3.05,Manufacturer,24572.88,2020-10-25,katherine69@example.net
+63,Matthew Bass,Europe,2.07,Manufacturer,11043.14,1986-01-20,morganjeremy@example.com
+64,Jennifer Waters,Africa,4.96,Wholesaler,10127.24,2020-07-10,james63@example.net
+65,Jacob Curtis,Europe,4.87,Manufacturer,20739.44,1983-11-13,hilljohn@example.com
+66,Judith Brown,Africa,1.27,Manufacturer,31090.82,2004-01-13,nicholasolson@example.net
+67,Michelle Simpson,North America,4.55,Manufacturer,17327.58,2023-11-24,zgreene@example.org
+68,David Torres,Middle East,2.78,Distributor,22736.34,1980-06-18,nelsonallison@example.com
+69,Brandon Maddox,Africa,3.42,Wholesaler,29491.39,1975-03-27,victoriayoung@example.com
+70,Larry Ortiz,Middle East,4.54,Supplier,37490.43,1985-12-19,ilawson@example.com
+71,Robert Freeman,Europe,2.38,Distributor,34138.26,1991-06-09,daisy52@example.com
+72,Mary Castillo,Africa,3.43,Manufacturer,39495.49,1988-10-04,audreycasey@example.com
+73,Mark Owen,North America,4.71,Wholesaler,47261.18,2017-03-24,timothy57@example.org
+74,Paul Mayer,Africa,2.43,Distributor,12860.4,2000-12-11,zachary00@example.com
+75,John Ball,Europe,4.99,Wholesaler,30489.7,2026-03-27,lrodriguez@example.com
+76,Scott Friedman,Middle East,1.11,Wholesaler,29264.86,2016-05-02,michael43@example.com
+77,Kenneth Garcia,Africa,3.17,Distributor,13448.23,1973-07-20,wheath@example.org
+78,Catherine Pham,Middle East,2.86,Manufacturer,22178.4,1974-08-21,taylorjose@example.org
+79,Willie Quinn,North America,2.49,Manufacturer,15107.62,1990-10-17,nicholashogan@example.net
+80,Katherine Flores,Europe,1.62,Wholesaler,47645.91,2016-12-01,christopher09@example.com
+81,Craig Ortiz,Europe,1.39,Distributor,49634.07,1988-08-17,brian87@example.com
+82,Bruce Walker PhD,North America,4.08,Manufacturer,42839.29,1999-06-13,framirez@example.org
+83,Eric Thomas,North America,1.07,Manufacturer,38047.66,2017-12-13,zrussell@example.org
+84,Timothy Montes,Asia,4.87,Wholesaler,38110.59,1986-12-22,kendra28@example.net
+85,Jessica Vasquez,Middle East,2.89,Manufacturer,26422.52,2009-03-16,annettesutton@example.net
+86,Jonathan Boone,Middle East,3.4,Manufacturer,11610.96,2026-05-16,qhorton@example.com
+87,Mr. Kevin Rivera,Africa,1.77,Supplier,36627.66,1982-12-31,michael93@example.net
+88,David Ramirez,North America,4.89,Manufacturer,37046.0,1991-07-29,wmckay@example.net
+89,Joshua Bates,Africa,2.49,Distributor,37365.67,1994-04-27,daniel09@example.com
+90,Manuel Andrews,Europe,3.42,Manufacturer,46382.25,2019-09-15,jasonortiz@example.com
+91,Catherine Schmidt,Europe,1.93,Supplier,38150.4,2007-07-24,heidigriffin@example.com
+92,Joshua Owens,Africa,3.7,Wholesaler,42926.09,2022-08-04,shawna93@example.org
+93,Michael Johnson,Middle East,2.32,Supplier,28976.02,2019-09-03,ygillespie@example.com
+94,Elizabeth Kennedy,Europe,3.88,Wholesaler,18273.53,1995-11-03,welchjennifer@example.org
+95,Michele Allen,Europe,1.8,Wholesaler,10720.63,1991-01-25,ffloyd@example.net
+96,Amy Baker,Asia,4.22,Supplier,48333.33,1973-04-29,whitney89@example.org
+97,Marcus Brown Jr.,Middle East,2.18,Distributor,26344.74,2003-04-10,danielle26@example.com
+98,Mary Carey,Asia,2.19,Wholesaler,40154.74,2006-06-21,wardjoshua@example.net
+99,Christopher Walker,Middle East,4.32,Supplier,39486.76,2007-05-04,nicholaswiley@example.org
+100,Jesus Phillips,Middle East,1.32,Distributor,12789.89,2014-04-01,collinsbrenda@example.org
+101,Erin Wallace,Middle East,1.26,Distributor,20118.67,1992-09-16,jacquelinegates@example.net
+102,Norman Huber,North America,2.91,Distributor,46702.72,2000-12-19,deannahenry@example.net
+103,Miranda Gonzalez,Asia,1.02,Supplier,37566.18,1989-08-29,meghan95@example.net
+104,Brooke Schmidt,North America,3.97,Wholesaler,26974.1,2020-01-21,michael68@example.org
+105,Mr. Ronnie Bolton,Europe,2.64,Distributor,40341.75,1983-01-15,michelle29@example.org
+106,Mark Larson,Europe,1.22,Wholesaler,33954.25,1976-08-05,brandonporter@example.com
+107,Brittany Lopez,Africa,2.78,Supplier,23938.49,1972-11-30,stevenwebb@example.com
+108,Gabriella Crosby,North America,1.21,Wholesaler,13826.55,1994-10-08,marc77@example.net
+109,William Robertson,Middle East,3.18,Distributor,37348.2,1993-10-24,alexander97@example.net
+110,Stephen Hays,Europe,1.17,Supplier,41395.56,1985-02-21,seancurtis@example.net
+111,Elizabeth Dean,Asia,1.84,Supplier,42961.38,1985-05-30,hawkinsashley@example.com
+112,Robert Delacruz,Asia,1.3,Manufacturer,22032.12,1997-07-12,christopher38@example.org
+113,Julie Hansen,North America,1.37,Manufacturer,47380.85,2005-05-17,sferguson@example.org
+114,Justin Hubbard,Africa,3.27,Supplier,40650.95,1983-04-13,scottkurt@example.org
+115,Elizabeth Casey,Europe,4.48,Supplier,11103.87,2006-05-02,morrischristopher@example.com
+116,Vernon Washington,Middle East,3.08,Supplier,48949.21,1982-04-23,daniellee@example.org
+117,Mark Williams,Europe,4.73,Supplier,39924.61,1979-12-16,justinturner@example.net
+118,Mrs. Heather Smith,Europe,1.43,Wholesaler,11172.98,1985-11-26,brooke01@example.net
+119,David Wu,Middle East,3.82,Manufacturer,43368.92,1980-04-05,rodriguezmelissa@example.net
+120,Robin Webb,Africa,2.85,Distributor,29750.91,1980-01-20,campbelljasmine@example.com
+121,Justin Wagner,Europe,2.37,Distributor,11256.26,2012-08-09,melissasims@example.org
+122,Susan Rodriguez,Middle East,1.76,Manufacturer,12142.97,2006-01-26,rodriguezjuan@example.org
+123,Debra Larsen DDS,North America,2.28,Wholesaler,20255.89,2010-10-07,uclark@example.net
+124,Gloria Johnston,Africa,3.64,Manufacturer,25400.58,1988-06-10,christopherlopez@example.org
+125,Lee Dunn,Asia,1.39,Manufacturer,19172.55,1975-08-23,poncestephen@example.net
+126,Margaret Kelley,Middle East,2.4,Supplier,18868.44,1981-12-16,alicewilliams@example.org
+127,Adriana Bell,Asia,4.21,Supplier,23667.19,1988-11-06,yle@example.net
+128,Daniel Hess,Asia,3.94,Distributor,37749.42,2001-05-09,skinnergail@example.com
+129,Hayley Wilcox,Africa,4.88,Supplier,48298.72,2001-10-02,amanda58@example.com
+130,Gary Cortez,Europe,4.39,Distributor,23029.09,2001-01-24,tylerwest@example.net
+131,Robert Kelley,North America,3.86,Wholesaler,34524.59,2017-02-09,monicaharding@example.org
+132,Miss Victoria Chan,Africa,2.12,Manufacturer,17527.8,2022-09-14,alejandro85@example.com
+133,Maria Smith,Asia,3.9,Supplier,20147.24,1998-10-14,heather61@example.com
+134,Jaclyn Hampton,North America,1.71,Manufacturer,29604.45,1976-09-30,joshua51@example.org
+135,Derrick Wilson,Middle East,3.69,Distributor,26478.84,1998-04-21,dianajackson@example.net
+136,Rachel Hale,Africa,2.89,Distributor,14227.97,1984-10-09,xreese@example.com
+137,Jason Hines,Africa,2.57,Distributor,32802.55,1982-12-29,ramirezchristopher@example.net
+138,Deborah Morales,Africa,2.45,Manufacturer,46702.05,2011-09-08,lmeyer@example.net
+139,Lori Phillips,Europe,4.64,Supplier,47110.51,1986-02-21,angelicaedwards@example.org
+140,Chase Evans,Middle East,2.73,Distributor,37809.19,1997-09-16,amberdurham@example.com
+141,Alyssa Ortega,Africa,4.06,Distributor,21712.63,1995-09-03,curtis60@example.org
+142,Anna Fisher,North America,4.15,Supplier,19952.2,2013-06-14,victoria94@example.net
+143,Kelly Ho,Middle East,1.85,Supplier,10979.38,2018-05-25,kathyduarte@example.net
+144,James Figueroa,Europe,1.49,Distributor,49322.16,1998-07-15,stevensmith@example.com
+145,Michael Copeland,Middle East,1.52,Supplier,23934.09,2011-09-26,ohoward@example.net
+146,Logan Jones,Middle East,3.38,Supplier,32180.48,1986-09-06,tmurphy@example.net
+147,Nancy Hayes,Africa,1.74,Wholesaler,24304.64,1993-02-06,brownjamie@example.net
+148,Ann Walker,Asia,1.83,Supplier,34664.87,1976-02-17,garciaamanda@example.com
+149,Victor Anderson,Europe,2.0,Distributor,18532.27,2018-12-05,meyerjade@example.net
+150,Shari Anderson,Africa,4.88,Supplier,26118.74,1976-10-02,ashley34@example.net
+151,Tasha Patterson,Europe,3.91,Distributor,23253.06,2021-05-29,ddawson@example.com
+152,Melissa Gomez,Asia,4.23,Supplier,42841.33,2010-12-20,kennedybrenda@example.com
+153,Juan Williams,Europe,4.4,Supplier,31179.92,1986-11-18,tinahoward@example.net
+154,Kevin Riley,North America,4.38,Wholesaler,47069.85,1971-12-15,jessicajohnson@example.org
+155,Andrew Rivera,Middle East,1.92,Wholesaler,37666.84,1983-04-22,kelly51@example.net
+156,Robert Johnson,North America,3.68,Wholesaler,10116.09,2002-11-23,cpatel@example.com
+157,Joshua Patterson,North America,3.94,Wholesaler,22770.23,1983-11-24,ksingleton@example.org
+158,Joel Ross,Africa,4.96,Wholesaler,36894.84,1974-01-29,lvilla@example.org
+159,Katherine Wallace,Middle East,1.35,Manufacturer,48769.03,1998-08-21,richard10@example.net
+160,Sandy Clay,North America,3.82,Supplier,15826.51,2013-11-23,kevin00@example.org
+161,Douglas Sanchez,Africa,3.73,Manufacturer,46322.04,1999-06-28,ashley90@example.org
+162,Michelle Ellis,North America,3.72,Distributor,32476.75,2022-09-28,oskinner@example.org
+163,Sarah Price,North America,4.19,Wholesaler,17260.61,1973-11-30,bjefferson@example.net
+164,Steven Butler,Asia,4.09,Supplier,38738.08,1993-05-15,mcgeetara@example.org
+165,Matthew Kim,North America,2.82,Distributor,28493.52,2010-05-19,bryanthomas@example.net
+166,Steven Golden,Middle East,1.09,Distributor,11623.22,1970-02-26,alexander43@example.com
+167,Robert Lee,Europe,3.68,Manufacturer,40799.9,1991-03-24,jwade@example.com
+168,David Collins,Africa,3.61,Distributor,16404.55,1991-08-18,douglassheila@example.com
+169,Meghan Herrera,Europe,2.49,Wholesaler,13646.04,2004-04-17,mccoytracey@example.net
+170,Joshua Garcia,Asia,2.65,Distributor,40277.0,1986-08-10,aliciathornton@example.net
+171,Andrew Smith,Middle East,4.53,Manufacturer,19640.09,1996-10-10,lewiseric@example.org
+172,Brandon Richmond,Europe,2.92,Distributor,11193.18,1986-03-30,hburns@example.org
+173,Kelsey White,Asia,3.78,Distributor,37713.63,2019-06-30,xbarrera@example.org
+174,Brian Sparks,North America,1.61,Supplier,29850.02,1974-02-21,davidburns@example.com
+175,Jill Sanchez,Africa,3.55,Supplier,21199.68,1988-06-05,monicastevens@example.com
+176,Louis Parker,Middle East,3.2,Manufacturer,44921.06,1971-10-04,xpineda@example.net
+177,Daniel Wilson,Africa,2.96,Supplier,43460.2,1983-08-15,christensencrystal@example.org
+178,Sabrina Williams,Asia,3.76,Manufacturer,46938.75,1996-08-01,atkinsbrad@example.net
+179,Russell Hopkins,North America,3.3,Manufacturer,39599.73,1981-07-24,gallegoscindy@example.org
+180,Jessica Wilson,Africa,1.13,Supplier,32249.8,1985-01-14,smithjulie@example.org
+181,Sarah Harris,Europe,3.18,Wholesaler,32390.6,2007-11-10,smithallison@example.org
+182,Deborah Brown,North America,4.92,Supplier,39418.27,2013-04-07,bmerritt@example.org
+183,Mr. Jeffrey Yang,North America,3.93,Wholesaler,12424.78,2015-09-14,tylerrusso@example.net
+184,Gregory Davis,Asia,4.14,Manufacturer,49460.59,2022-08-03,joy93@example.net
+185,Dominique Patrick,Africa,2.8,Supplier,36588.3,1981-01-28,christyduran@example.com
+186,Dr. Taylor Hughes MD,Middle East,2.88,Distributor,40286.83,1992-04-20,bakerkevin@example.net
+187,Stacey Mayer,North America,1.91,Wholesaler,18777.32,2022-10-02,josephsnow@example.org
+188,Nancy Carrillo,Europe,2.8,Distributor,38519.14,1996-08-29,greenebrenda@example.com
+189,Heather Hill,North America,4.68,Wholesaler,16771.52,1986-04-29,smedina@example.net
+190,Stephanie Perez,Africa,2.68,Manufacturer,20310.57,1977-03-12,alexanderlewis@example.org
+191,David Coleman,Africa,4.7,Wholesaler,29771.73,1991-04-07,kristen29@example.org
+192,Rhonda Stewart,Asia,2.96,Wholesaler,35355.15,1982-09-22,terrypatricia@example.com
+193,Daniel Clark,North America,3.92,Supplier,15938.68,2022-04-12,ashley37@example.com
+194,Angela Clark,Middle East,1.14,Supplier,25872.57,2008-09-21,whiterobert@example.org
+195,Dawn Sexton,North America,1.07,Distributor,11123.78,1994-08-27,ryan76@example.com
+196,Veronica Valenzuela,Europe,2.42,Distributor,17394.95,2023-09-24,zimmermanchristopher@example.net
+197,Susan Smith,North America,1.83,Supplier,28330.39,1997-08-08,brendan07@example.net
+198,James Clark,Middle East,3.62,Distributor,29673.09,2023-09-18,audrey52@example.org
+199,Sydney Mckee,North America,2.88,Wholesaler,20703.83,1989-09-02,marcushorton@example.com
+200,Debra Knight,North America,2.53,Distributor,35467.54,2018-11-28,gutierrezjohn@example.com
+201,Bradley Oliver Jr.,North America,1.12,Supplier,45122.48,2007-09-15,katelyn08@example.com
+202,Caroline Stephens,Europe,2.3,Wholesaler,33720.77,2023-07-06,mitchellharrison@example.net
+203,Mitchell Hoover,Europe,3.64,Wholesaler,35221.15,2000-04-30,ewilliams@example.org
+204,Jim Allison,Middle East,3.92,Wholesaler,12563.28,1980-12-20,robinsonamy@example.org
+205,Mark Cabrera,North America,1.7,Wholesaler,49522.81,2002-09-02,kingkelly@example.com
+206,Yvette Davies,Africa,4.48,Distributor,37828.23,1991-09-20,katherine25@example.org
+207,Mark Marshall,Middle East,3.72,Distributor,18957.36,1981-05-12,john03@example.net
+208,John Young,Middle East,1.8,Supplier,46568.26,1994-05-30,bfox@example.com
+209,Tiffany Guerrero,Asia,1.51,Manufacturer,32072.77,2026-03-24,rmiller@example.com
+210,Pam Tucker,North America,1.09,Wholesaler,33030.3,1993-06-26,powerszachary@example.net
+211,Rebecca Frank,North America,2.29,Wholesaler,42846.88,1990-06-04,gloriareynolds@example.com
+212,Jennifer Jones,Europe,2.94,Supplier,19627.81,2022-07-13,destinyfreeman@example.org
+213,Brandon Morrison,Europe,1.17,Wholesaler,41067.09,1970-06-15,ymontgomery@example.net
+214,Christine Nguyen,Middle East,2.36,Wholesaler,35753.7,1980-06-19,kingjames@example.net
+215,Steve Foley,Asia,1.85,Supplier,36162.12,2016-10-17,leahwilson@example.org
+216,Henry Reynolds,Africa,1.43,Distributor,42543.04,1985-02-11,john79@example.net
+217,Anthony Murphy,North America,3.64,Manufacturer,43956.42,1995-09-27,matthew74@example.com
+218,Richard Nixon,Middle East,2.85,Manufacturer,12948.97,1986-05-22,bellamy@example.com
+219,Dr. Mary Ortega,North America,1.37,Manufacturer,32091.65,2012-09-23,landrews@example.net
+220,Michele Davis,Europe,3.98,Supplier,49720.09,1987-11-25,robertcastro@example.net
+221,Thomas Mann,Asia,4.27,Wholesaler,31651.03,2018-08-11,rpatterson@example.net
+222,Brenda Mullen,North America,3.12,Supplier,26604.52,2010-11-28,rthomas@example.net
+223,Chelsea Williamson,Africa,2.5,Distributor,37994.01,2007-02-14,ryanmcdonald@example.com
+224,Eric Mcclain,Europe,1.9,Supplier,17757.1,2013-07-20,kristinscott@example.com
+225,Robert Morrison,Middle East,1.39,Distributor,31654.92,1992-01-04,greerkatherine@example.net
+226,Francisco Mcneil,Africa,3.94,Distributor,18748.63,2003-05-18,maryalexander@example.com
+227,Randall Johnson,Asia,4.38,Wholesaler,44751.2,1983-06-26,kimchristina@example.org
+228,Sandra Larson,Europe,4.21,Manufacturer,35439.36,1988-05-27,jfarley@example.net
+229,Cassandra Carpenter,North America,4.51,Distributor,26167.54,1977-04-23,hannahterry@example.com
+230,Rebecca Allen,Europe,1.19,Wholesaler,33017.71,2023-01-30,zmorris@example.net
+231,Ralph George,Middle East,1.66,Wholesaler,46093.5,1998-11-01,iestes@example.com
+232,Crystal Schneider,Europe,2.45,Supplier,19705.1,1980-03-12,jmills@example.com
+233,Anthony Holmes,Middle East,3.87,Supplier,37058.03,1989-03-27,yjohnson@example.net
+234,James Davis,Middle East,3.71,Supplier,35023.7,1977-11-27,aalexander@example.net
+235,Tricia Thompson,Middle East,2.97,Distributor,11050.56,2006-05-21,malexander@example.net
+236,Donna Duran,Africa,2.78,Distributor,10898.41,2017-06-17,samuelsimmons@example.net
+237,Natalie Martin,Middle East,3.57,Wholesaler,42410.99,1975-11-19,thomasdaugherty@example.net
+238,Angela Glover,North America,1.35,Wholesaler,35412.5,2003-08-11,christina67@example.net
+239,Evelyn Gonzalez,Africa,3.81,Distributor,24241.64,1971-02-12,riggsjennifer@example.org
+240,Michael Wolf,North America,3.66,Distributor,34598.66,1978-05-02,etaylor@example.com
+241,Christine Ross,North America,2.86,Manufacturer,21944.07,2004-08-28,rdorsey@example.org
+242,Brittany Lopez,Africa,1.58,Wholesaler,14944.28,2006-12-04,npeterson@example.org
+243,Natalie Lynch,Asia,3.59,Manufacturer,17630.28,1970-09-24,arthur82@example.com
+244,Allison Rodriguez,Asia,3.1,Distributor,44127.13,1985-03-09,roseamy@example.org
+245,Caitlin Ho,Africa,3.49,Supplier,16485.62,1984-02-06,jordanpatricia@example.net
+246,Andrew King,Middle East,1.77,Manufacturer,40377.66,2023-01-22,michael43@example.com
+247,Nancy Cobb,Europe,1.23,Wholesaler,16227.94,2020-09-17,carolyn13@example.net
+248,Kathleen Weeks,Middle East,3.4,Manufacturer,18013.81,2019-03-18,davidbryant@example.com
+249,Daniel Gibbs,Europe,2.82,Manufacturer,19048.1,1995-09-21,ramirezrachel@example.com
+250,Taylor Smith,Africa,3.51,Wholesaler,47359.51,1975-03-18,myersrebecca@example.com
+251,Lisa Herrera,Middle East,3.11,Manufacturer,40062.93,2018-02-14,kbond@example.net
+252,Matthew Cruz,Africa,4.27,Wholesaler,21034.36,1997-12-05,sandrarose@example.net
+253,Brian Blackwell MD,North America,1.95,Wholesaler,20346.12,1971-10-02,millernichole@example.com
+254,Tammy Gibson,Asia,2.09,Distributor,47925.41,1996-12-29,erik56@example.com
+255,Eric Hooper,Asia,2.83,Wholesaler,37871.54,1976-08-18,barbara40@example.com
+256,Justin Long,Africa,2.87,Manufacturer,33349.91,2020-12-28,raymondsmith@example.com
+257,Michelle Ward,Europe,4.06,Wholesaler,48578.35,1983-06-07,holdenjonathan@example.org
+258,Stephen Garcia,North America,2.27,Supplier,13725.91,1982-01-13,mswanson@example.net
+259,Kelly Barnes,Asia,4.93,Distributor,26957.55,2000-05-18,zhuffman@example.net
+260,Joyce Caldwell,North America,2.5,Wholesaler,48081.46,1984-07-15,larrywatson@example.com
+261,Isabella Payne,Africa,1.77,Supplier,38255.79,2004-12-16,cannonelizabeth@example.net
+262,Debbie Edwards,Europe,2.06,Manufacturer,46424.29,2014-10-22,brianna52@example.net
+263,Julie Colon,Asia,4.24,Supplier,48212.47,1973-03-08,paulkirby@example.org
+264,Alicia Shaw,Middle East,1.93,Manufacturer,43938.61,1970-04-05,denniswu@example.org
+265,Jennifer Watson,Africa,4.34,Manufacturer,44195.4,1980-10-16,lwilliams@example.org
+266,Mrs. Robin Kim,North America,4.61,Wholesaler,24747.93,2000-04-11,kevinjohnson@example.org
+267,Wayne Miller,Middle East,1.53,Distributor,32126.46,2002-05-03,johnflores@example.com
+268,Denise Mitchell,North America,2.65,Manufacturer,30792.08,2001-02-10,joshua77@example.com
+269,Raymond Bennett,Africa,3.08,Supplier,48100.23,1995-04-10,curtisrivas@example.com
+270,Ricardo Shannon,Middle East,3.18,Distributor,27819.41,1996-10-03,josephoneill@example.com
+271,Frank Anderson,Europe,4.07,Wholesaler,48940.54,1976-12-03,phillipsronald@example.net
+272,David Thomas,North America,3.31,Manufacturer,18335.18,1985-12-10,stevencunningham@example.com
+273,Mrs. Cheryl Coleman,Middle East,1.74,Supplier,17703.16,1974-05-09,zlove@example.net
+274,James Mitchell,Asia,3.27,Manufacturer,34454.4,1971-07-10,gordonmaria@example.com
+275,Nicholas Fisher,Asia,1.71,Distributor,19814.38,2015-06-05,smendoza@example.com
+276,Troy Gibbs,Asia,3.45,Distributor,36723.69,2015-01-05,ihenderson@example.net
+277,Tracy Davis,Europe,4.3,Manufacturer,11018.62,1981-08-01,bryan02@example.com
+278,Heather Jacobs,Asia,1.28,Supplier,22555.2,1985-01-23,kristygarcia@example.org
+279,Paul Conley,Middle East,1.76,Supplier,18451.29,1996-06-11,derek31@example.net
+280,Rachel Cantu,Asia,2.22,Supplier,43367.46,1992-12-15,garywilliams@example.com
+281,Andrew Turner,Africa,4.86,Distributor,40551.44,1987-04-19,hermancaitlin@example.com
+282,Mrs. Nicole Flores,Asia,2.06,Wholesaler,21091.48,1991-04-04,matthew36@example.net
+283,Dana Smith,North America,2.23,Manufacturer,45874.45,2017-07-16,ybrown@example.net
+284,Charles Curry,North America,1.76,Distributor,17244.71,2008-06-09,clarence96@example.org
+285,Gregory Lewis,Africa,4.11,Supplier,41099.08,1981-01-27,jacobdixon@example.net
+286,Erin Burke,Asia,3.65,Distributor,44199.82,2013-05-03,casey22@example.com
+287,Michael Williams,Middle East,4.05,Supplier,32808.12,1975-04-15,wlong@example.org
+288,Brian Pierce,Asia,4.83,Manufacturer,16460.7,1970-12-24,beckerjodi@example.com
+289,Brooke Goodwin,Europe,3.41,Distributor,14359.37,1987-11-23,wbell@example.net
+290,Diane Hatfield,Middle East,3.33,Manufacturer,45410.6,1999-09-08,michael61@example.org
+291,Michael Cervantes,Europe,4.0,Wholesaler,29755.86,1998-10-12,cobbalyssa@example.net
+292,Susan Higgins,Middle East,2.96,Supplier,14990.86,2004-04-04,danielle73@example.org
+293,James Taylor,Middle East,2.41,Manufacturer,36395.78,1993-11-02,qhudson@example.net
+294,Jordan Gonzalez,Europe,4.97,Manufacturer,37373.22,2012-02-08,yvonnejones@example.org
+295,Mrs. Michelle Long,Europe,1.97,Manufacturer,37668.0,2025-12-14,anthonyfranklin@example.com
+296,Melanie Rogers,Europe,2.73,Manufacturer,45443.54,2024-08-21,andrew00@example.org
+297,Mrs. Elizabeth Brooks,Africa,1.05,Distributor,42546.53,2017-02-11,moralessherry@example.org
+298,Shelby Snyder DDS,Africa,4.57,Manufacturer,47458.53,1976-05-21,robersonangela@example.com
+299,Sheila Garcia,Europe,2.35,Distributor,17874.92,1995-04-11,robertallen@example.com
+300,Kyle Valdez,Europe,4.28,Supplier,44239.61,2005-12-13,castanedadawn@example.com
+301,Regina Obrien,Asia,3.16,Manufacturer,48210.2,1993-08-03,harringtoncolin@example.net
+302,Ricardo Morgan,Asia,4.36,Manufacturer,45068.32,1985-12-14,ulopez@example.org
+303,Donald Tucker,Middle East,3.06,Wholesaler,28398.3,2023-06-26,jonathansmith@example.com
+304,Henry Hood,Middle East,4.98,Distributor,48173.28,2016-02-17,jose80@example.net
+305,Michael Stephenson,Middle East,2.79,Manufacturer,20195.19,2000-10-01,cruzlisa@example.com
+306,Ian Lewis,Middle East,4.54,Supplier,14721.15,1988-09-13,joshua18@example.com
+307,Heather York,Asia,3.05,Distributor,18972.61,1987-05-29,ofuller@example.org
+308,Todd Daniels,Middle East,1.29,Supplier,22390.38,1984-04-03,cynthia65@example.net
+309,Albert Rogers,Europe,3.78,Wholesaler,49985.88,2012-04-05,jeremyolson@example.net
+310,Kelsey Warner,Middle East,2.43,Supplier,32144.31,2013-04-20,webbjody@example.org
+311,Linda Silva,North America,1.27,Wholesaler,20387.35,1977-01-24,douglasrandolph@example.com
+312,Joseph Martinez,Europe,4.72,Manufacturer,47757.91,1979-08-18,conradbryan@example.org
+313,Charles Love,Middle East,3.73,Wholesaler,37818.24,1983-04-24,taylorkatherine@example.org
+314,Dana Mueller MD,North America,3.21,Distributor,19774.63,1971-12-27,morgan82@example.org
+315,Ronald Mcguire,Asia,4.41,Distributor,20149.88,2025-04-26,nmills@example.net
+316,Jerome Donaldson,North America,3.14,Wholesaler,18798.42,1989-10-18,fwilson@example.com
+317,Sonia Francis,Middle East,1.2,Manufacturer,37643.12,2020-09-24,kevin50@example.org
+318,Paula Cruz,Middle East,3.94,Distributor,23344.37,2007-04-23,tgibbs@example.org
+319,Madeline Stanley,Europe,3.94,Supplier,15139.39,2018-02-25,yhart@example.net
+320,Brian Holland,Middle East,4.02,Supplier,46964.85,1976-04-26,christopher73@example.net
+321,Stephen Haley,Asia,4.86,Supplier,24698.63,2011-09-23,denise34@example.com
+322,Barry Pierce,Asia,1.46,Supplier,18805.15,1996-09-24,carrillotodd@example.com
+323,William Sawyer,North America,1.92,Wholesaler,18636.19,1993-04-15,mreyes@example.com
+324,Barbara Andrews,Europe,4.02,Supplier,31340.87,1983-08-30,franciscowagner@example.net
+325,Kelly Rogers,Europe,1.84,Supplier,22024.85,1995-06-29,cindysummers@example.com
+326,Bradley Allen,Middle East,3.22,Wholesaler,46842.91,2008-09-03,jeffrey74@example.net
+327,Morgan Carrillo,North America,4.71,Manufacturer,31899.18,1974-01-07,tclayton@example.com
+328,Ashley Sampson,Europe,2.57,Wholesaler,26872.79,1980-07-19,kmiller@example.com
+329,John Gibson,Middle East,2.94,Wholesaler,37437.77,1989-10-22,abartlett@example.org
+330,Keith Mason,Asia,2.1,Manufacturer,26653.43,1984-12-05,gomezjulia@example.net
+331,Candice Hayes,Middle East,3.3,Supplier,39355.83,2026-05-22,narnold@example.com
+332,Timothy Palmer,Middle East,3.04,Supplier,22198.57,2022-04-16,mmiller@example.net
+333,Carlos Martin MD,Middle East,1.75,Distributor,43475.67,2017-08-12,ayalaashley@example.net
+334,Casey Montgomery,Asia,4.74,Manufacturer,30372.47,1975-04-15,shannon97@example.net
+335,Carrie Cruz,North America,1.89,Supplier,27490.97,2015-11-30,haleashley@example.com
+336,Laura Wilson,Middle East,1.84,Wholesaler,34385.55,1976-10-18,jennifer75@example.net
+337,Dana Garcia,North America,3.72,Supplier,41838.61,1993-03-03,robertrussell@example.com
+338,Christopher Ellis,Europe,4.82,Wholesaler,10960.28,1984-01-14,rebekahday@example.com
+339,Lawrence Randall,Europe,2.61,Supplier,10573.1,2012-02-29,erojas@example.com
+340,Jonathon Nguyen,Asia,2.87,Wholesaler,38527.41,2003-03-24,sherrycarter@example.net
+341,Joseph Garza,Middle East,3.86,Supplier,45624.78,2009-07-20,hughesscott@example.org
+342,Scott Hooper,Europe,4.81,Supplier,41431.85,2025-01-26,amy00@example.com
+343,Aaron Davis,Africa,2.57,Manufacturer,49125.13,1999-10-21,nmccoy@example.org
+344,Anthony Garrison,Europe,1.49,Distributor,36924.22,2001-10-09,jared79@example.com
+345,Sarah Reed,Europe,1.66,Manufacturer,27957.1,1993-05-02,erik99@example.com
+346,Stephanie Gomez,Europe,1.09,Supplier,20484.92,1985-01-24,nathanielherrera@example.net
+347,Carol Smith,Middle East,4.19,Distributor,43170.47,2009-11-28,wilsontodd@example.net
+348,Dana Berry,Asia,2.04,Distributor,16874.91,1976-06-02,garrisonrobin@example.org
+349,Jonathan Mitchell,North America,2.7,Manufacturer,25861.82,2010-04-18,gwilson@example.org
+350,Dakota Cox,Africa,1.51,Manufacturer,26174.29,1989-01-10,yalvarez@example.com
+351,Daniel Webb,Africa,1.79,Supplier,36556.98,1996-12-01,thompsonveronica@example.net
+352,James Chan,Asia,2.79,Manufacturer,40621.64,2007-05-27,rpoole@example.org
+353,Amber Smith,Europe,1.32,Distributor,21930.17,1990-04-30,bryce89@example.org
+354,Emily Johnson,Asia,1.5,Supplier,29416.43,1979-09-11,brandonrichmond@example.net
+355,Stephanie Miles,Middle East,2.24,Supplier,14337.44,2025-06-06,jennifer76@example.org
+356,Stephanie Stein,Middle East,1.18,Distributor,41200.29,2019-06-14,ikennedy@example.com
+357,Lauren Lucas,Asia,1.31,Wholesaler,16390.95,1991-07-02,campbelljoshua@example.com
+358,Helen Wilson,Asia,2.44,Wholesaler,41832.81,2023-07-11,timothy38@example.net
+359,Samantha Parker,Middle East,4.72,Manufacturer,15726.24,2025-02-05,matthew29@example.com
+360,Barbara Allen,Africa,2.06,Wholesaler,27776.04,1988-12-29,lorettanash@example.net
+361,Kevin Williams Jr.,Asia,3.31,Wholesaler,45873.28,1971-07-27,lydia79@example.org
+362,Terry Diaz,North America,2.02,Manufacturer,39231.61,2015-11-27,jamestammy@example.com
+363,Stephanie Mcintyre,Asia,1.95,Wholesaler,12885.1,1994-10-15,wellsalan@example.org
+364,Joan Mack,Asia,4.74,Supplier,22285.26,2005-12-27,stephaniejoyce@example.net
+365,Adam Cantu,North America,2.89,Manufacturer,35738.17,1971-05-25,josephgriffin@example.net
+366,Jacob Boyle,Asia,2.35,Wholesaler,19732.86,2001-04-05,shawtheresa@example.org
+367,Dustin Blankenship,Africa,3.63,Manufacturer,29899.96,1970-11-12,cfarmer@example.org
+368,Nina Dennis,Asia,4.58,Manufacturer,29117.84,2002-09-22,nicolecervantes@example.org
+369,Donna Phelps,North America,3.47,Manufacturer,32560.31,2007-04-27,kimmargaret@example.net
+370,Judith Lewis,Europe,1.09,Supplier,32322.06,1972-08-15,nancykelley@example.com
+371,Arthur Garcia,Middle East,4.74,Distributor,13535.14,1980-01-04,amanda37@example.org
+372,Keith Baker,Middle East,3.93,Distributor,40687.41,1977-09-01,nicolemason@example.org
+373,Melissa White,Asia,1.76,Manufacturer,35773.25,1990-03-02,clarkwayne@example.com
+374,Tracy Sloan,Asia,4.82,Wholesaler,16107.71,1991-09-29,zherrera@example.net
+375,Barbara Carlson,North America,4.84,Distributor,37566.92,1995-11-06,angelcopeland@example.org
+376,Samuel Alexander,Middle East,1.76,Distributor,27998.89,2011-01-18,leerita@example.net
+377,Alec Hawkins,Europe,2.27,Manufacturer,44821.75,2021-02-01,rodriguezmelissa@example.com
+378,Erica Clark,Africa,1.31,Distributor,12982.49,1998-09-12,sdavis@example.com
+379,Michele Hill,Europe,2.34,Distributor,21843.57,1972-03-27,lmichael@example.com
+380,Mark Landry,Middle East,1.44,Manufacturer,21038.49,2010-08-08,mnelson@example.org
+381,Brian Stout,Middle East,4.64,Wholesaler,24241.79,2004-02-10,maryedwards@example.net
+382,Mary Bryant,Middle East,3.03,Distributor,10632.13,2008-01-31,helen76@example.com
+383,Nathan Wright,Europe,1.42,Distributor,44412.67,1973-02-21,ppatterson@example.net
+384,Marie Burns,Asia,4.4,Manufacturer,27366.17,1983-10-03,lisajackson@example.net
+385,Victor Foster,Asia,2.8,Distributor,15757.55,2006-11-08,rangelcrystal@example.net
+386,Ann Dougherty,North America,4.86,Manufacturer,44621.76,2020-01-16,vgonzalez@example.com
+387,Robert Ritter,North America,3.82,Wholesaler,29341.55,1981-01-09,heather88@example.net
+388,Jay Nelson,Africa,4.43,Distributor,42608.58,2009-08-19,isabella85@example.org
+389,Amy Evans,Middle East,4.53,Manufacturer,33616.06,2023-07-17,stephenjohnson@example.com
+390,Kristie Robbins,Asia,3.71,Supplier,28125.47,2006-04-28,williamsonerin@example.org
+391,Michelle Johnson,Europe,3.1,Distributor,21965.65,1980-12-09,munozamanda@example.net
+392,Todd Johnson,North America,4.73,Wholesaler,49287.41,2013-10-20,jeremiah45@example.org
+393,Emily Saunders,Asia,4.36,Manufacturer,47994.56,2001-04-18,john78@example.org
+394,Paul Hart,Africa,2.94,Supplier,11669.87,1978-03-14,ellisvanessa@example.org
+395,Betty Gonzalez,Asia,1.74,Manufacturer,44910.89,1997-04-09,saundersgarrett@example.org
+396,Amanda Burton,Middle East,2.42,Manufacturer,38292.56,2023-07-04,theresa87@example.com
+397,Jessica Johnson,Africa,2.11,Manufacturer,33960.3,2001-08-29,megananderson@example.com
+398,Jeffrey Maldonado,North America,4.61,Manufacturer,20848.57,1973-02-25,vtate@example.com
+399,Kimberly Johnson,Middle East,4.66,Distributor,12330.6,2023-03-24,kevinkim@example.org
+400,Nicole Chan,Africa,3.56,Supplier,25446.25,2000-09-17,daviskelly@example.com
+401,James Anderson,Europe,3.55,Distributor,15955.75,1988-02-26,iramirez@example.net
+402,Ryan Kelly,North America,2.78,Supplier,11974.82,2022-06-26,travis53@example.org
+403,Laura Gutierrez,Middle East,3.65,Manufacturer,19268.95,2000-08-29,dgreen@example.com
+404,Carl Peck,Asia,1.59,Supplier,20762.1,1977-12-23,michellekennedy@example.com
+405,Andrew Greene,Asia,2.21,Manufacturer,42501.35,1991-01-01,kmartin@example.com
+406,Allison Lewis,Middle East,3.05,Supplier,46366.5,2022-02-07,cmaxwell@example.org
+407,Michele Simon,Asia,4.1,Distributor,37016.25,2019-01-19,derek60@example.net
+408,Alicia Daniel,Africa,2.46,Manufacturer,48468.16,2017-07-03,emily67@example.org
+409,Alicia Patterson,Asia,3.15,Distributor,26837.33,1982-08-28,donmann@example.org
+410,Elizabeth Meadows,North America,3.66,Wholesaler,28434.76,1979-11-21,sandra93@example.com
+411,Christopher Collins,North America,2.24,Distributor,28370.41,2003-11-26,qharris@example.net
+412,Catherine Johnson,Europe,4.54,Supplier,37267.37,2022-04-02,margaretreed@example.net
+413,Hannah Wolf,Asia,4.21,Wholesaler,17070.31,1981-04-08,brandywashington@example.com
+414,Jennifer Wong,Middle East,2.19,Distributor,28438.65,2009-07-26,dorseyjason@example.com
+415,Margaret Chen,Europe,3.85,Supplier,48440.61,1986-11-03,debraclark@example.org
+416,Daniel Smith,Asia,2.62,Distributor,44553.87,1990-04-07,nguyennathan@example.com
+417,Scott Tyler,Europe,4.7,Wholesaler,45306.22,1988-03-15,petersonjennifer@example.com
+418,Joshua Shah,Europe,2.77,Manufacturer,41604.55,1970-02-10,nicholasgonzales@example.org
+419,Nathan Coleman,North America,3.49,Distributor,17585.0,1995-11-05,murrayrebecca@example.net
+420,Carol Wise,North America,3.47,Manufacturer,41251.64,1976-06-27,brownricky@example.net
+421,Oscar Hull,Asia,4.18,Supplier,42672.28,1995-08-21,ncontreras@example.com
+422,Scott Nelson,Europe,3.76,Wholesaler,34332.59,2003-01-15,elee@example.org
+423,Jonathan Huang,Middle East,2.48,Distributor,12252.49,2024-04-22,rebeccajones@example.com
+424,Carl Lambert,Africa,2.06,Supplier,38492.73,1989-12-22,icampbell@example.net
+425,Tammy Wood,Africa,1.95,Manufacturer,24930.78,1994-09-14,hernandezlarry@example.com
+426,James Walker,Middle East,3.17,Supplier,15076.0,1996-03-30,delgadoronald@example.org
+427,Mark King,Asia,1.5,Manufacturer,48787.54,1972-02-18,lindahenderson@example.org
+428,Rodney Taylor,Europe,1.82,Manufacturer,11651.5,2012-06-06,aaron28@example.org
+429,Lisa Lawrence,Europe,3.33,Manufacturer,29925.83,1978-12-03,glenda46@example.org
+430,Troy Harris,North America,2.13,Supplier,19010.02,1976-03-16,pricerobert@example.net
+431,Pamela Walsh,North America,1.39,Supplier,39847.48,2002-02-17,tlittle@example.net
+432,Alan Curtis,Asia,2.49,Supplier,19865.65,2005-09-23,melissawilson@example.net
+433,Joanna Davis,Asia,3.33,Manufacturer,14441.55,2015-04-01,mhanson@example.org
+434,Alan Preston,North America,3.82,Wholesaler,26010.26,1985-06-28,ochoalisa@example.com
+435,Jennifer Mccoy,Asia,1.88,Distributor,35114.74,2024-06-30,csmith@example.org
+436,Matthew Robinson,Asia,3.73,Distributor,22751.64,2023-09-20,mollywright@example.net
+437,Melissa Harvey,North America,4.04,Wholesaler,37127.79,1988-08-25,jesse42@example.com
+438,Joseph Freeman,Asia,4.25,Manufacturer,25534.69,1996-05-10,ycooley@example.com
+439,Austin Adams,North America,4.06,Distributor,39673.79,2004-11-09,markgreen@example.org
+440,Evan Smith,Europe,2.31,Distributor,42592.24,2009-03-24,peggy52@example.com
+441,Charles Hammond,North America,2.75,Manufacturer,17834.85,2022-04-01,wellsanna@example.com
+442,Sharon Anderson,Middle East,4.07,Distributor,20049.1,2002-01-23,tcardenas@example.org
+443,Robert Howard,Africa,1.6,Supplier,45956.31,2020-06-21,herrerajason@example.net
+444,Rhonda Moore,Asia,2.04,Wholesaler,45122.76,2003-10-06,tinaspencer@example.org
+445,Laura Black,Africa,1.51,Supplier,23046.09,2000-01-17,farrellmichael@example.org
+446,Robert Tate,Middle East,2.7,Wholesaler,41784.96,2005-02-03,jacobvaughn@example.org
+447,Caitlin Carter,Middle East,1.93,Manufacturer,40025.04,1983-03-31,jasonstout@example.org
+448,Jennifer Watkins,North America,1.42,Distributor,43265.11,2006-03-18,john50@example.net
+449,Joseph Williams,Africa,4.32,Manufacturer,15197.64,2025-12-29,bbright@example.org
+450,Dale Hunter,Africa,4.75,Wholesaler,13314.45,1977-06-13,udavis@example.net
+451,Robert White,North America,2.62,Distributor,46678.25,1995-06-23,davidmoore@example.com
+452,Jillian Fowler,Europe,2.3,Supplier,36886.18,2021-08-02,xlara@example.net
+453,Christopher Roman,Africa,4.8,Supplier,47103.8,1998-10-12,jamesdillon@example.net
+454,Ashley Williams,Europe,1.96,Manufacturer,12521.41,1980-08-26,matthew84@example.com
+455,Melissa Reilly,Middle East,3.39,Wholesaler,25298.38,2012-07-14,rtaylor@example.com
+456,Mark Chandler,Africa,2.18,Manufacturer,48664.85,1973-09-25,bowmandaniel@example.net
+457,Billy Boyle,Middle East,3.51,Distributor,27456.11,2012-04-20,morrisondonna@example.net
+458,Michael Bryant,Asia,3.52,Manufacturer,49238.12,1981-07-18,paula72@example.com
+459,Kristen Randall,Asia,2.44,Wholesaler,16285.85,1972-08-19,desireeleon@example.net
+460,Douglas Graves,Middle East,2.18,Manufacturer,31559.56,1992-11-11,justinvargas@example.com
+461,Carolyn Ortega,North America,4.84,Supplier,11958.29,2012-10-26,tphillips@example.com
+462,Dr. Sandra Davis,Asia,2.09,Distributor,21497.89,2023-04-07,pcooper@example.com
+463,Jessica Baker,North America,3.62,Supplier,15731.19,2011-07-21,pricedevin@example.net
+464,Patrick Brown,North America,1.01,Manufacturer,46514.43,2010-03-30,shepherdlinda@example.com
+465,April Alvarado,Africa,3.28,Wholesaler,23536.38,2009-09-10,craigdavila@example.com
+466,Matthew Miller,Europe,1.49,Wholesaler,12537.46,1988-08-10,njackson@example.net
+467,Mary Morse,Africa,1.8,Manufacturer,15951.88,1994-02-16,perezmason@example.net
+468,William Cooper,Middle East,3.44,Distributor,13228.1,2021-08-13,alyssawest@example.net
+469,Shannon Mann,Europe,1.32,Supplier,14258.65,2016-05-04,shaneknapp@example.com
+470,Tim Goodman,Europe,1.56,Wholesaler,12328.31,2002-08-18,elizabeth24@example.org
+471,Michael Cunningham,Africa,4.54,Manufacturer,34746.93,2013-12-30,nathanmoran@example.net
+472,Denise Martinez,Asia,4.9,Wholesaler,16757.08,2013-10-26,jamiegardner@example.net
+473,Jeffrey Davis,Africa,2.6,Manufacturer,34648.82,2020-01-10,lori30@example.com
+474,Bonnie Harrell,Europe,4.04,Distributor,45842.59,1999-06-30,richmondbrian@example.net
+475,Olivia Moreno,Middle East,2.94,Wholesaler,27238.68,2000-08-23,thomas99@example.org
+476,Ethan Kelley,Africa,4.15,Distributor,45445.56,1970-12-27,kelly85@example.com
+477,Melanie Clark,Africa,1.07,Supplier,20980.75,2003-12-17,cortezmeredith@example.net
+478,Jackie Stuart,Africa,3.99,Supplier,48645.42,1990-03-21,jennifer59@example.org
+479,Justin Moore,Asia,1.23,Supplier,49538.56,1997-10-07,woodjacqueline@example.org
+480,Jason Stokes,North America,2.0,Distributor,12869.61,2006-02-27,lopezsharon@example.com
+481,Jennifer Rice,Africa,2.14,Distributor,16598.06,1980-11-10,mayerjohn@example.com
+482,Shannon Graves,Middle East,4.26,Wholesaler,19046.85,2001-02-04,jessicawarren@example.com
+483,Danielle Smith,North America,1.26,Manufacturer,16059.47,1996-08-05,wtanner@example.net
+484,Frank Gonzalez,Europe,3.61,Wholesaler,21656.61,1984-10-18,cglover@example.net
+485,Ashley Castillo,Africa,1.89,Manufacturer,15243.91,2012-09-14,davidwilliams@example.com
+486,Robert Reyes,North America,3.4,Wholesaler,20929.6,2022-06-27,chadgross@example.com
+487,Amy Shannon,Middle East,2.51,Manufacturer,44419.88,1998-07-11,xreyes@example.com
+488,Brittany Jones,Middle East,2.16,Wholesaler,17727.91,2010-08-17,jacquelinethompson@example.net
+489,Ian Norman,Africa,3.3,Distributor,30585.04,2024-05-04,lynnsmith@example.net
+490,Valerie Washington,North America,3.34,Wholesaler,37532.0,1993-03-05,maldonadolaura@example.com
+491,Shelly Berg DDS,Middle East,2.76,Distributor,31158.47,1989-07-09,michellecantu@example.net
+492,Alexis Fox,Asia,1.05,Supplier,21770.61,1987-10-12,powellderek@example.com
+493,Steven Sims,Europe,3.24,Wholesaler,16046.42,1998-12-15,scott59@example.org
+494,Lisa Delgado,Middle East,1.24,Manufacturer,40968.27,1990-11-01,davidmartin@example.com
+495,Kimberly Adams,North America,2.19,Distributor,40636.03,2008-10-17,mollypena@example.net
+496,Amanda Chen,North America,3.15,Distributor,28467.49,2019-10-11,richard30@example.net
+497,Teresa Bradley,Asia,1.44,Supplier,26022.94,2001-05-09,spencecrystal@example.org
+498,Steven Townsend,Middle East,3.64,Supplier,38942.34,2002-01-24,vporter@example.net
+499,Tony Green,Middle East,2.56,Wholesaler,29715.44,2003-05-10,hardydiana@example.org
+500,Roy Mccann,Africa,4.81,Supplier,33723.78,1989-03-16,hreeves@example.org
