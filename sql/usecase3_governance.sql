@@ -61,3 +61,21 @@ EXECUTE FUNCTION log_shipment_status_change();
 UPDATE shipments
 SET status = 'Delivered'
 WHERE shipment_id = 1;
+
+
+BEGIN;
+
+UPDATE suppliers
+SET transportation_cost = 6000
+WHERE supplier_id = 1;
+
+
+SAVEPOINT cost_update;
+
+UPDATE suppliers
+SET transportation_cost = 60000
+WHERE supplier_id = 1;
+
+ROLLBACK TO SAVEPOINT cost_update;
+
+COMMIT;
